@@ -1,7 +1,7 @@
 # Online Store Sales Dashboard – Excel Project
 
 ## Project Overview
-This is a student Data Analytics project based on an Online Store dataset. The goal of this project was to clean raw data, analyze business-related questions, and create an interactive Excel dashboard to generate meaningful insights.
+This is my Data Analytics project based on an Online Store dataset. The goal of this project was to clean raw data, analyze business-related questions, and create an interactive Excel dashboard to generate meaningful insights.
 
 ## Project Objectives
 - Understand and analyze online store sales data
