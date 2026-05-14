@@ -49,9 +49,6 @@ Through this project, I gained hands-on experience in:
 - Business insight generation
 - Excel visualization techniques
 
-## Dashboard Preview
-(Add dashboard screenshot here)
-
 ## Files Included
 - Online Store Dataset
 - Cleaned Excel File
